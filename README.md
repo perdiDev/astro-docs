@@ -1,4 +1,4 @@
-Learn become easy with docs [![Astro](https://docs.astro.build/en/tutorial/0-introduction/)]
+Learn become easy with docs [Astro](https://docs.astro.build/en/tutorial/0-introduction/)
 
 # Astro Starter Kit: Minimal
 
